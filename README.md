@@ -93,11 +93,3 @@ Feel free to fork this repository and submit pull requests to improve this scrip
 ## License
 
 This script is open-source and available under the [MIT License](LICENSE).
-
-### Additional Notes:
-
-- **Version Control:** If you plan to maintain and update this script, consider using a version control system like Git and hosting the repository on GitHub or a similar platform.
-- **Minification:** You can minify the `dynamic-footnotes.js` file to reduce its size and improve page load times.
-- **Custom Integration:** The specific steps to integrate the script might vary slightly depending on your Ghost theme and setup. Refer to Ghost's documentation or theme guides for assistance if needed.
-
-This README provides comprehensive instructions on how to integrate and customize the dynamic footnotes script for your Ghost CMS blog while ensuring optimal SEO performance.
